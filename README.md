@@ -18,4 +18,8 @@
 # PHP
 ## Run PHP Server in Localhost
 ### cd /Users/yahyahassan/Desktop/WEBSITE
+<<<<<<< HEAD
 ### php -S 127.0.0.1:8080
+=======
+### php -S 127.0.0.1:8080
+>>>>>>> 0df4e2b192c52871ab1c5cdd34b75a488132d1a1
